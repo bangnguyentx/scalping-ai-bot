@@ -2,7 +2,7 @@
 import os
 
 # Bot credentials
-TOKEN = os.getenv("BOT_TOKEN", "8505137563:AAGuvTtObBIILgjsUnP8v-8EsBRKn2T3h4E")
+TOKEN = os.getenv("BOT_TOKEN", "8458092977:AAHO8gb6nvtTVus573iQcHkw2SC1xgTaNmY")
 ADMIN_ID = int(os.getenv("ADMIN_ID", "7760459637"))
 
 # Top 10 favorite coins to analyze
